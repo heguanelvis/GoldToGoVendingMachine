@@ -160,7 +160,7 @@ public class VendingMachineCLI {
 
 		System.out.println();
 		System.out.println("Please enter product code:");
-		String choice = menu.collectUserInput();
+		String choice = menu.collectUserInput().toUpperCase();
 
 		if (!vendingMachine.itemAtPositionExists(choice)) {
 			System.out.println();
