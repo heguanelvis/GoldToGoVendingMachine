@@ -117,7 +117,7 @@ started..
         >Little League Chew|2
         >Chiclets|0
         >Triplemint|0
-
+        >
         >Total Sales: $10.00
         >```
 
